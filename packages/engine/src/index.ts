@@ -13,3 +13,5 @@ export { sha256, canonicalEvent } from "./hash.ts";
 export { publicPaperEvents, paperStories, composePaper } from "./paper.ts";
 
 export { desiresForMind } from "./desires.ts";
+
+export { bagView, equipped, capacity, syncItems } from "./items.ts";
